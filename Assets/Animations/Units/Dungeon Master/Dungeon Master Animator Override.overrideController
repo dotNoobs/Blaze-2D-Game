@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dungeon Master Animator Override
+  m_Controller: {fileID: 9100000, guid: 14207438ef4ba5d4abf0cf4b0ba1e8ac, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d032bc6ced3a5a84d9eceece6026bf88, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 88f41eef2e1ac6f41aa6065280810230, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b859ccc3878f9a040b439a81f07c98c1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a0841ccc7e0496f4aa59b806194fb1a1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 327b0b7b5b35c1d4aa0a910d12a81dc1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1ae78bade6da90f48a6659ce4a823452, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4634555cd2d65c347927335f9e171942, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3def405c88292d74295b805409630100, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0cea5471e11f29141989f25980837183, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6442da013112b874c92fcf52b8549f08, type: 2}

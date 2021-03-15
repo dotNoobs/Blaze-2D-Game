@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 240d8e864460e614685be5f0ac8a9380, type: 3}
+  m_Name: Catacombs Set
+  m_EditorClassIdentifier: 
+  floorRuleTile: {fileID: 11400000, guid: d1028a10aa4ec5a4dbe0acaf09f8fb25, type: 2}
+  voidRuleTile: {fileID: 11400000, guid: cc584386ea6a2884b83a6d13a382a9d1, type: 2}
+  wallRuleTile: {fileID: 11400000, guid: b669b65fd134da24fa2166899477d361, type: 2}
+  wallTopDRuleTile: {fileID: 11400000, guid: eeb405b74ad404d40a6e3c6e9ae5164a, type: 2}
+  wallTopURuleTile: {fileID: 11400000, guid: 22f9ee27a649d2544a3dff746e275660, type: 2}
+  wallTopsLRuleTile: {fileID: 11400000, guid: 94772a3126980d046b311872ca3f1b82, type: 2}
+  wallTopsRRuleTile: {fileID: 11400000, guid: dd612fc7eb34e584f9ffb7947f9cb0d9, type: 2}

@@ -1,0 +1,27 @@
+public enum SoundEffectType
+{
+    attackMelee,
+    bowAttack,
+    magicAttack,
+    pickUpItem,
+    deathMeleeUnit,
+    playerDead,
+    shieldSkill,
+    stealthSkill,
+    boostSkill,
+    teleportSkill,
+    potion,
+    pain,
+    levelUp,
+    projectileDestroy,
+    projectileDestroyOnWall,
+    portal,
+    battleMusic1,
+    battleMusic2,
+    battleMusic3,
+    battleMusic4,
+    battleMusic5,
+    gameWin,
+    gameLose,
+    mainMenuTheme
+}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 240d8e864460e614685be5f0ac8a9380, type: 3}
+  m_Name: Dungeon Set
+  m_EditorClassIdentifier: 
+  floorRuleTile: {fileID: 11400000, guid: af595aa2db76ee24895774b8fb6f225a, type: 2}
+  voidRuleTile: {fileID: 11400000, guid: 52f9accecbe83ed41a98842405d28acb, type: 2}
+  wallRuleTile: {fileID: 11400000, guid: 346028cfaf9b9f149900734a526a4573, type: 2}
+  wallTopDRuleTile: {fileID: 11400000, guid: 545a581e2d299bc46b70561af42ab792, type: 2}
+  wallTopURuleTile: {fileID: 11400000, guid: ad1f9f8e5543ccf4bba5eac2ab73184b, type: 2}
+  wallTopsLRuleTile: {fileID: 11400000, guid: 4da80de545cfd9447ba519ef2db0d1a9, type: 2}
+  wallTopsRRuleTile: {fileID: 11400000, guid: c7ce17c3eb02b334f89d561e6be5888e, type: 2}

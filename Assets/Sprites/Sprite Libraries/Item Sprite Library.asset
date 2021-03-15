@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Item Sprite Library
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Sword
+    m_Hash: 1529145355
+    m_CategoryList:
+    - m_Name: 0
+      m_Hash: -186917087
+      m_Sprite: {fileID: 5413793996549056952, guid: 58e609a3ad105934bba5605ea95e89cc,
+        type: 3}
+    - m_Name: 1
+      m_Hash: -2082672713
+      m_Sprite: {fileID: 4827973386812910292, guid: 58e609a3ad105934bba5605ea95e89cc,
+        type: 3}
+    - m_Name: 2
+      m_Hash: 450215437
+      m_Sprite: {fileID: -1702289557141295173, guid: 58e609a3ad105934bba5605ea95e89cc,
+        type: 3}
+    - m_Name: 3
+      m_Hash: 1842515611
+      m_Sprite: {fileID: 3309186336408560601, guid: 58e609a3ad105934bba5605ea95e89cc,
+        type: 3}
+  - m_Name: Axe
+    m_Hash: 1411864780
+    m_CategoryList:
+    - m_Name: 0
+      m_Hash: -186917087
+      m_Sprite: {fileID: 5827999981262943233, guid: 58e609a3ad105934bba5605ea95e89cc,
+        type: 3}
+    - m_Name: 1
+      m_Hash: -2082672713
+      m_Sprite: {fileID: -952625050974090773, guid: 58e609a3ad105934bba5605ea95e89cc,
+        type: 3}
+    - m_Name: 2
+      m_Hash: 450215437
+      m_Sprite: {fileID: -4181300410011356246, guid: 58e609a3ad105934bba5605ea95e89cc,
+        type: 3}
+    - m_Name: 3
+      m_Hash: 1842515611
+      m_Sprite: {fileID: -3235079942609912382, guid: 58e609a3ad105934bba5605ea95e89cc,
+        type: 3}
+  - m_Name: Bow
+    m_Hash: -1604644021
+    m_CategoryList:
+    - m_Name: 0
+      m_Hash: -186917087
+      m_Sprite: {fileID: -5712255789412316293, guid: 39300535a524ac342ba6c5d80674abd5,
+        type: 3}
+    - m_Name: 1
+      m_Hash: -2082672713
+      m_Sprite: {fileID: 6363287141182579300, guid: 39300535a524ac342ba6c5d80674abd5,
+        type: 3}
+    - m_Name: 2
+      m_Hash: 450215437
+      m_Sprite: {fileID: -8845412962934070736, guid: 39300535a524ac342ba6c5d80674abd5,
+        type: 3}
+  - m_Name: Staff
+    m_Hash: -2085626730
+    m_CategoryList:
+    - m_Name: 0
+      m_Hash: -186917087
+      m_Sprite: {fileID: 8913683052097958787, guid: 58e609a3ad105934bba5605ea95e89cc,
+        type: 3}
+    - m_Name: 1
+      m_Hash: -2082672713
+      m_Sprite: {fileID: -5004935403933694090, guid: 58e609a3ad105934bba5605ea95e89cc,
+        type: 3}
+    - m_Name: 2
+      m_Hash: 450215437
+      m_Sprite: {fileID: -5418849352755162901, guid: 58e609a3ad105934bba5605ea95e89cc,
+        type: 3}
+    - m_Name: 3
+      m_Hash: 1842515611
+      m_Sprite: {fileID: -1179390228693402340, guid: 58e609a3ad105934bba5605ea95e89cc,
+        type: 3}
+  - m_Name: Ability
+    m_Hash: -93136992
+    m_CategoryList:
+    - m_Name: 0
+      m_Hash: -186917087
+      m_Sprite: {fileID: 21300000, guid: 70dd484fb4675f34f95367b1f90530b1, type: 3}
+  - m_Name: Potion
+    m_Hash: 1293596059
+    m_CategoryList:
+    - m_Name: 0
+      m_Hash: -186917087
+      m_Sprite: {fileID: 21300000, guid: 8f03d65eca65243d0963f648c2e9824a, type: 3}
+  - m_Name: Quiver
+    m_Hash: -135186729
+    m_CategoryList:
+    - m_Name: 0
+      m_Hash: -186917087
+      m_Sprite: {fileID: 8629432336547650845, guid: 29d5432bce1748e45aa42fc2800babc6,
+        type: 3}
+    - m_Name: 1
+      m_Hash: -2082672713
+      m_Sprite: {fileID: 4477226651706611013, guid: 29d5432bce1748e45aa42fc2800babc6,
+        type: 3}
+    - m_Name: 2
+      m_Hash: 450215437
+      m_Sprite: {fileID: 3877263789735161488, guid: 29d5432bce1748e45aa42fc2800babc6,
+        type: 3}
+  - m_Name: Arrow
+    m_Hash: 435601722
+    m_CategoryList:
+    - m_Name: 0
+      m_Hash: -186917087
+      m_Sprite: {fileID: -1033766676993296678, guid: aa9d365545ceb0248ba222f536b3630d,
+        type: 3}
+    - m_Name: 1
+      m_Hash: -2082672713
+      m_Sprite: {fileID: 5287939958834139383, guid: aa9d365545ceb0248ba222f536b3630d,
+        type: 3}
+    - m_Name: 2
+      m_Hash: 450215437
+      m_Sprite: {fileID: 3318904089994504119, guid: aa9d365545ceb0248ba222f536b3630d,
+        type: 3}
+  - m_Name: Energy
+    m_Hash: -1866629977
+    m_CategoryList:
+    - m_Name: 0
+      m_Hash: -186917087
+      m_Sprite: {fileID: 4179822705786632669, guid: 611cc8cee414e1e44a202e3d8b0df29a,
+        type: 3}
+    - m_Name: 1
+      m_Hash: -2082672713
+      m_Sprite: {fileID: 2674963236897015346, guid: 16376f220174caf44903a3cf723f093e,
+        type: 3}
+    - m_Name: 2
+      m_Hash: 450215437
+      m_Sprite: {fileID: 2674963236897015346, guid: 44d963878e6425f4f91a09ee3054a636,
+        type: 3}
+    - m_Name: 3
+      m_Hash: 1842515611
+      m_Sprite: {fileID: 4179822705786632669, guid: 611cc8cee414e1e44a202e3d8b0df29a,
+        type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea45c424144364440af6cf335a9ceb11, type: 3}
+  m_Name: Potion
+  m_EditorClassIdentifier: 
+  itemName: Potion
+  itemType: 1
+  sprite: {fileID: 21300000, guid: 8f03d65eca65243d0963f648c2e9824a, type: 3}
+  power: 1
+  agility: 1
+  wisdom: 1
+  usableType: 1
+  cooldown: 5
+  ability: {fileID: 11400000, guid: bfe879ae5fcbe4840aec51feffba11d4, type: 2}
